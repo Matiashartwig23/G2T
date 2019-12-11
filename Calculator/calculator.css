@@ -1,0 +1,22 @@
+.blue {
+    background-color: black;
+}
+.red {
+    margin: 5px;
+
+    
+}
+.green {
+    margin: 5px;
+   
+}
+.black {
+    width: 100%;
+}
+.button {
+    width: 100%;
+    background-color: gray;
+}
+.screen{
+    width: 100%;
+}
